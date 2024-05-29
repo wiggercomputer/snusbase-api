@@ -1,6 +1,6 @@
 {
   "name": "snusbase-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A wrapper for the Snusbase API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
