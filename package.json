@@ -1,0 +1,30 @@
+{
+  "name": "snusbase-api",
+  "version": "1.0.0",
+  "description": "A wrapper for the Snusbase API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/snusbase-api.git"
+  },
+  "keywords": [
+    "snusbase",
+    "api",
+    "typescript"
+  ],
+  "author": "gnome",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
+  }
+}
