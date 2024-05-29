@@ -1,7 +1,3 @@
-Sure! Here’s a README for your `snusbase-api` TypeScript wrapper:
-
----
-
 # snusbase-api
 
 A TypeScript wrapper for the Snusbase API. This package allows you to easily interact with the Snusbase API to perform various actions such as searching data, getting statistics, IP WHOIS lookups, and hash lookups.
